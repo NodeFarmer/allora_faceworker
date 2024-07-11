@@ -15,7 +15,7 @@ services:
       dockerfile: Dockerfile_inference
     command: python -u /app/app.py
     ports:
-      - "8000:8000"
+      - "8001:8001"
 
 
   faceworker:
