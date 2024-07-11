@@ -1,0 +1,9 @@
+faucet_url: https://faucet.edgenet.allora.network/
+name: faceworker
+worker:
+  address: %address%
+  boot_nodes: %boot_nodes%
+  chain_rpc_address: https://allora-rpc.edgenet.allora.network/
+  chain_topic_id: 6
+  hex_coded_pk: '%hex_coded_pk%'
+  mnemonic: '%seed%'
